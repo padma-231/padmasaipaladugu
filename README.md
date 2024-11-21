@@ -12,4 +12,4 @@ I'm **Cloud Developer** enthusiast,who loves building innovative solutions. I'm 
 Working on building cloud applications using different cloud platforms like GCP,AWS and Azure.
 Would like to get expertise in AWS and working on becoming certified Cloud Architect.
 
-                                                            **Believer in continuous learning and clean, efficient code.
+                                                         ** Believer in continuous learning and clean, efficient code.**
